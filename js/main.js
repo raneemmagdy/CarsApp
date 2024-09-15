@@ -54,3 +54,8 @@ colorBox.on('click',function(e){
    document.documentElement.style.setProperty('--main-color', color);
     
 })
+
+
+
+
+AOS.init();
